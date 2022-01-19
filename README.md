@@ -1,0 +1,2 @@
+# kryptojava
+java training projekt
