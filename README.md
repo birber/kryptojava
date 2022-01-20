@@ -1,2 +1,5 @@
-# kryptojava
-java training projekt
+# Kryptojava
+
+This is a java training projekt
+
+
